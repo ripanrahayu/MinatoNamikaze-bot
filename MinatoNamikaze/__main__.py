@@ -74,7 +74,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-MINATO_IMG = "https://i.imgur.com/Ol72ko1.jpg"
+MINATO_IMG = "https://telegra.ph/file/1a09027d2146bf31ebb4c.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -187,16 +187,16 @@ def start(update: Update, context: CallbackContext):
                                 context.bot.username)),
                         InlineKeyboardButton(                                                                        
                             text="Source Code📂",
-                            url="https://github.com/DarkGod14/MinatoNamikaze-bot")
+                            url="https://github.com/Ripan-Rhy/Gemoybot")
 
                      ],
                      [
                         InlineKeyboardButton(
-                            text="Minato️ Namikaze Support🙈",
-                            url="https://t.me/MinatoNamikazeSupport"),
+                            text="Gemoy Support🙈",
+                            url="https://t.me/ripanrhySupport"),
                         InlineKeyboardButton(							
-                            text="Minato Namikaze (Log)👀",
-                            url="https://t.me/NamikazeMinatoChannel")                              
+                            text="Gemoy (Log)👀",
+                            url="https://t.me/RipanRhyChannel")                              
                     
                     ]]))
     else:
