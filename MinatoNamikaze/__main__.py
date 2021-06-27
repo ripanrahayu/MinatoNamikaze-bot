@@ -187,7 +187,7 @@ def start(update: Update, context: CallbackContext):
                                 context.bot.username)),
                         InlineKeyboardButton(                                                                        
                             text="Source Code📂",
-                            url="https://github.com/Ripan-Rhy/MinatoNamikaze")
+                            url="https://github.com/Ripan-Rhy/MinatoNamikaze-bot")
 
                      ],
                      [
