@@ -1,19 +1,19 @@
-![MINATO](https://i.imgur.com/ojnUEQ2.jpg)
+![Gemoy](https://telegra.ph/file/1a09027d2146bf31ebb4c.jpg)
 
-# Minato Namikaze
+# Ripan Rhy
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Naruto suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Minato Namikaze (bot)](http://t.me/NamikazeMinato_bot).
+Can be found on telegram as [Gemoy (bot)](http://t.me/Ripan_Rhy_bot).
 
-The Support group can be reached out to at [Minato Support](https://t.me/MinatoNamikaze_Support), where you can ask for help about [Minato Namikaze (bot)](https://t.me/NamikazeMinato_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available :) 
+The Support group can be reached out to at [Gemoy Support](https://t.me/gemoy_Support), where you can ask for help about [gemoy (bot)](https://t.me/gemoy_ot), discover/request new features, report bugs, and stay in the loop whenever a new update is available :) 
 
 
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
- - Edit any mentions of [@Minato Namikaze Support](https://t.me/MinatoNamikaze_Support) Support to your own support chat
- - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot [See this](https://github.com/DarkGod14/MinatoNamikaze-bot/blob/main/MinatoNamikaze/__main__.py#L13)
+ - Edit any mentions of [@gemoy Support](https://t.me/gemoy_Support) Support to your own support chat
+ - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot [See this](https://github.com/RipanRhy/Gemoy-bot/blob/main/Gemoy/__main__.py#L13)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats
  - This repo does not come with technical support, so DO NOT come to us asking help about deploy/console errors
 
@@ -158,7 +158,7 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-`python3 -m MinatoNamikaze`
+`python3 -m RipanRhy`
 
 You can use [nssm](https://nssm.cc/usage) to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 
