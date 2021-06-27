@@ -6,7 +6,7 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database and 
 
 Can be found on telegram as [Gemoy (bot)](http://t.me/Ripan_Rhy_bot).
 
-The Support group can be reached out to at [Gemoy Support](https://t.me/gemoy_Support), where you can ask for help about [gemoy (bot)](https://t.me/gemoy_ot), discover/request new features, report bugs, and stay in the loop whenever a new update is available :) 
+The Support group can be reached out to at [Gemoy Support](https://t.me/gemoy_Support), where you can ask for help about [gemoy (bot)](https://t.me/gemoy_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available :) 
 
 
 ## How to setup/deploy.
@@ -158,7 +158,7 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-`python3 -m RipanRhy`
+`python3 -m MinatoNamikaze`
 
 You can use [nssm](https://nssm.cc/usage) to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 
