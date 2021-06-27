@@ -86,7 +86,7 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 for module_name in ALL_MODULES:
-    imported_module = importlib.import_module("MinatoNamikaze.modules." +
+    imported_module = importlib.import_module("ripanrhy.modules." +
                                               module_name)
     if not hasattr(imported_module, "__mod_name__"):
         imported_module.__mod_name__ = imported_module.__name__
@@ -187,7 +187,7 @@ def start(update: Update, context: CallbackContext):
                                 context.bot.username)),
                         InlineKeyboardButton(                                                                        
                             text="Source Code📂",
-                            url="https://github.com/Ripan-Rhy/Gemoybot")
+                            url="https://github.com/Ripan-Rhy/MinatoNamikaze")
 
                      ],
                      [
