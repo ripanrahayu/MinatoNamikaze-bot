@@ -187,16 +187,16 @@ def start(update: Update, context: CallbackContext):
                                 context.bot.username)),
                         InlineKeyboardButton(                                                                        
                             text="Source Code📂",
-                            url="https://github.com/Ripan-Rhy/MinatoNamikaze-bot")
+                            url="https://github.com/Ripan-Rhy/Gemoy-bot")
 
                      ],
                      [
                         InlineKeyboardButton(
                             text="Gemoy Support🙈",
-                            url="https://t.me/ripanrhySupport"),
+                            url="https://t.me/gemoySupport"),
                         InlineKeyboardButton(							
                             text="Gemoy (Log)👀",
-                            url="https://t.me/RipanRhyChannel")                              
+                            url="https://t.me/gemoyChannel")                              
                     
                     ]]))
     else:
