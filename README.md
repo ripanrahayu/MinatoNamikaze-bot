@@ -1,6 +1,6 @@
 ![Gemoy](https://telegra.ph/file/1a09027d2146bf31ebb4c.jpg)
 
-# Ripan Rhy
+# Minato Namikaze
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Naruto suitable for Anime and Manga group chats. 
 
